@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
             </head>
             <body>
                 <video width="100%" height="auto" controls autoplay loop>
-                    <source src="https://static.obemannadbutik.se/undefined/images/Coca%20Cola.mp4" type="video/mp4"
+                    <source src="https://media-hosting.imagekit.io//2a6e306400614a69/1000028088.mp4?Expires=1831465885&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MYrft4qW5Orij55LDYKMoT~cOH3vTw-m4Bv6u~ojbDnb1sMHnjqXXKutHECx4oRn6mnNysjMZr3q8Eg6uOPf5ct2DBqLAilY-jXFVLaMRQaV0D-Fg0ORN~RiAx5csi60x0dMMeOhALtf0z1c1YRUf03ENY32asC9~z~wDtSf0cvYGnz7ORr9B1O4OviNwVW~U~PBkz8uZj330Ebx74tGtihRn1-ZjtGXWxebtIchAJz8oHSH38S2JUPDzcIBEM~L5UKQSIZhjsVKJI0orBVCxDug9kCRjw-uow0oNufXW4yxgTxCfvXq7eR-vZaYo5PPIw5OKN~Niu5yVVV-5omAng__" type="video/mp4"
                 </video>
             </body>
             </html>
