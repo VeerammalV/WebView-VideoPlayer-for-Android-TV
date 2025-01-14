@@ -1,0 +1,22 @@
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#d5352c</color>
+    <color name="green">#448831</color>
+    <color name="grey">#9a9da9</color>
+    <color name="light_grey">#E9E9E9</color>
+    <color name="background">#f7f7f7</color>
+    <color name="yellow">#f7c148</color>
+    <color name="green_700">#438931</color>
+    <color name="green_900">#245A17</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange_200">#fbe29b</color>
+    <color name="gray">#f5f5f5</color>
+    <color name="blue">#0096cf</color>
+    <color name="blue_700">#0096cf</color>
+    <color name="blue_200">#b3e5fc</color>
+    <color name="blue_500">#03a9f4</color>
+    <color name="blue_900">#0069c0</color>
+
+</resources>
